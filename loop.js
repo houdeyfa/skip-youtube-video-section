@@ -4,16 +4,19 @@
     // ==========================================
     const VIDEO_CONFIGS = {
         // The Arabic Daff version you are currently using
-        '2gaWDvKWvac': [
+        'xBBW3GlZIIo': [ // 2gaWDvKWvac
             { start: 6,   end: 65  },
             { start: 77,  end: 115 },
             { start: 120, end: 179 },
             { start: 190, end: 270 }
         ],
-        // You can add a second video configuration seamlessly here later!
+        // You can add a second video configuration seamlessly here later! 
         'VIDEO_ID_2_HERE': [
             { start: 10,  end: 45  },
             { start: 60,  end: 120 }
+        ],
+        'knkNy_LHtlo': [
+            { start: 1,  end: 59  },
         ]
     };
 

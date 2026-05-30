@@ -1,10 +1,7 @@
 # skip-youtube-video-section
 
-
-
-Paste this in the terminal
+Use this as a bookmarklet in the browser address bar or save it as a bookmark URL.
 
 ```
-javascript:(function(){var el=document.createElement('script');el.src='YOUR_RAW_GITHUB_URL_HERE';document.body.appendChild(el);})();
-
+javascript:(function(){var el=document.createElement('script');el.src='https://raw.githubusercontent.com/houdeyfa/skip-youtube-video-section/refs/heads/main/loop.js';document.body.appendChild(el);})();
 ```
